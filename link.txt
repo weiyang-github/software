@@ -1,0 +1,17 @@
+稀缺资源
+https://masuit.com/misc/5
+
+gitlab仓库集合：
+http://git.gupaoedu.com/ldqk/soft
+https://git.lug.ustc.edu.cn/masuit/soft
+http://git.imweb.io/masuit/soft/tree/master
+https://gitlab.com/masuit/soft
+http://www.bjlishi.com/ldqk/soft
+https://tohjo.eu/ldqk/soft
+http://gitlab.informatika.org/ldqk/soft
+http://www.cxysq.com/ldqk/soft
+
+会声会影github下载：
+https://github.com/ldqk/Corel-VideoStudio
+
+和git结合时最好使用4.0.6版本，这样就不会仓库中产生BC4Key.txt文件
